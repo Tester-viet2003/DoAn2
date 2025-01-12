@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_Xc nhn</name>
+   <tag></tag>
+   <elementGuidId>af0ba6c9-0e85-498b-9d12-ae6d0b033490</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#modal-reset-password > div.modal-dialog.modal-dialog-centered.modal-dialog-scrollable > div.modal-content > div.modal-body > form > div.form-group.d-flex.justify-content-end > button.btn.olm-btn-primary.mr-2</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(//button[@type='submit'])[3]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>0c3712c8-4951-4616-885e-7caf920212e2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>btn olm-btn-primary mr-2</value>
+      <webElementGuid>c785763e-f00a-49c5-8c15-56bea2143a11</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>submit</value>
+      <webElementGuid>3e6bbdbc-289f-4c88-9688-484ed6cd2f93</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Xác nhận</value>
+      <webElementGuid>c445f7d2-d144-40a0-b90f-de145f8a77f5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;modal-reset-password&quot;)/div[@class=&quot;modal-dialog modal-dialog-centered modal-dialog-scrollable&quot;]/div[@class=&quot;modal-content&quot;]/div[@class=&quot;modal-body&quot;]/form[1]/div[@class=&quot;form-group d-flex justify-content-end&quot;]/button[@class=&quot;btn olm-btn-primary mr-2&quot;]</value>
+      <webElementGuid>69cf890b-b70b-40f6-8a68-cd2336d8ee6f</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>(//button[@type='submit'])[3]</value>
+      <webElementGuid>973400ad-6aea-47ad-ac29-ab0ae3846da7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='modal-reset-password']/div/div/div[2]/form/div[4]/button</value>
+      <webElementGuid>2f8c7706-f0ed-4f86-86a5-d37844a4c2fb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Mật khẩu nên chứa chữ hoa, số và kí tự đặc biệt'])[1]/following::button[1]</value>
+      <webElementGuid>be3a7921-2c3f-44a7-9a03-cbee28d34537</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Mật khẩu phải có tối thiểu 4 kí tự'])[1]/following::button[1]</value>
+      <webElementGuid>33a418e1-144a-4c71-ac04-8a368eb6c092</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Hủy'])[2]/preceding::button[1]</value>
+      <webElementGuid>39a8f39c-7a80-40f4-9df4-ad6217070e1a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Các khóa học có thể bạn quan tâm'])[1]/preceding::button[4]</value>
+      <webElementGuid>7684266c-b809-4016-9aae-d21a8f4c1e5f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[4]/button</value>
+      <webElementGuid>bb9c4475-ba92-4ad8-b27c-51b7c473a2d7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[@type = 'submit' and (text() = 'Xác nhận' or . = 'Xác nhận')]</value>
+      <webElementGuid>e5534a3f-b36e-4e0f-a460-15b037add60f</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_Gi_1</name>
+   <tag></tag>
+   <elementGuidId>8ee8300b-fc58-4fa0-9431-cfb0b40b663b</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>button.btn.olm-btn-primary.btn-verify-email</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='nav-verify-email']/div[4]/button[2]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>c74dee77-a034-4916-b33a-fb526ead2bc8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>btn olm-btn-primary btn-verify-email</value>
+      <webElementGuid>7b62b2fc-cff6-4494-be1c-ca22954c8a65</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Gửi</value>
+      <webElementGuid>e845c802-8f61-4bcc-b0fa-b091c801965c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;nav-verify-email&quot;)/div[@class=&quot;form-group mt-3 float-right&quot;]/button[@class=&quot;btn olm-btn-primary btn-verify-email&quot;]</value>
+      <webElementGuid>5b60e519-e0dc-48eb-b5e9-119a9c588807</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='nav-verify-email']/div[4]/button[2]</value>
+      <webElementGuid>eb827ad7-2d2f-46af-a3eb-b00a46bb3b4d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Không hiện lại nữa'])[1]/following::button[1]</value>
+      <webElementGuid>ea79015b-f49a-42f8-aa95-e5b3f3234252</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Email Phụ huynh'])[1]/following::button[2]</value>
+      <webElementGuid>8541fd31-492a-431e-93cc-cdb1fd31fa2f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Bổ sung thông tin'])[1]/preceding::button[1]</value>
+      <webElementGuid>81184f8e-ed75-451f-8841-5d592af559e5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Số điện thoại:'])[3]/preceding::button[2]</value>
+      <webElementGuid>22b13431-70a6-4452-89db-0f6e5ab1870d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Gửi']/parent::*</value>
+      <webElementGuid>70bf5ffa-5981-44fd-9ced-3b3a106432a8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[4]/button[2]</value>
+      <webElementGuid>a744a0c4-21a6-489a-823a-a49a4e5e851d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[(text() = 'Gửi' or . = 'Gửi')]</value>
+      <webElementGuid>e622b1d9-4d05-41c6-86fc-d938945a9985</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

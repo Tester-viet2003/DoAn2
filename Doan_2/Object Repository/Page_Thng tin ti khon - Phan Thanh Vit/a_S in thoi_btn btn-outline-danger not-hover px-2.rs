@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_S in thoi_btn btn-outline-danger not-hover px-2</name>
+   <tag></tag>
+   <elementGuidId>9132edc3-5f70-4401-b063-8e7a76ee55e0</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>a.btn.btn-outline-danger.not-hover.px-2</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='info-account']/div/div/div[2]/div[2]/div/div/div/a</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>8e5a8ec6-b139-416f-9c84-70fe6a6a6c4e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>https://olm.vn/xac-thuc-tai-khoan</value>
+      <webElementGuid>f5cbaa81-0733-4203-bce4-2dd314b44895</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>btn btn-outline-danger not-hover px-2</value>
+      <webElementGuid>485b910f-58a3-4d6b-8d3a-4346d5836bce</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;info-account&quot;)/div[@class=&quot;card-body&quot;]/div[@class=&quot;w-100&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-lg-6 mb-3&quot;]/div[@class=&quot;form-group&quot;]/div[@class=&quot;input-group&quot;]/div[@class=&quot;input-group-append&quot;]/a[@class=&quot;btn btn-outline-danger not-hover px-2&quot;]</value>
+      <webElementGuid>0504bbd5-5653-406e-a513-0af40012e774</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='info-account']/div/div/div[2]/div[2]/div/div/div/a</value>
+      <webElementGuid>bcb013db-a758-4a81-b4ac-7781cd037f11</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Số điện thoại:'])[1]/following::a[1]</value>
+      <webElementGuid>42fe2281-3d8d-494c-8058-ba20c80db305</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Email:'])[1]/following::a[1]</value>
+      <webElementGuid>651519eb-39dc-4886-802b-3398e1e12607</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Email phụ huynh:'])[1]/preceding::a[1]</value>
+      <webElementGuid>7552f8b6-19ed-4ad8-b7a7-7a231effdb53</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Xác thực tài khoản'])[1]/preceding::a[1]</value>
+      <webElementGuid>4d3356b7-3bd0-402e-820f-226943371d12</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, 'https://olm.vn/xac-thuc-tai-khoan')]</value>
+      <webElementGuid>fa56f7bb-20a6-4b9c-a049-0c3ac8472491</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div/div/a</value>
+      <webElementGuid>122b5ac1-4e25-44a3-b701-3548825fa92b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = 'https://olm.vn/xac-thuc-tai-khoan']</value>
+      <webElementGuid>ed55efc0-2688-4f32-aba2-222308ec91d3</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Project>
+   <description></description>
+   <name>Doan_2</name>
+   <tag></tag>
+   <UUID>68b7655d-1bb5-4d03-87eb-441f9f0b9745</UUID>
+   <createdEdition>FREE</createdEdition>
+   <createdVersion>10.0.1</createdVersion>
+   <freeLicense>true</freeLicense>
+   <migratedVersion>5.9.0</migratedVersion>
+   <modifiedEdition>FREE</modifiedEdition>
+   <modifiedVersion>10.0.1</modifiedVersion>
+   <pageLoadTimeout>0</pageLoadTimeout>
+   <projectFileLocation>C:\Users\Administrator\Katalon Studio\Doan_2\Doan_2.prj</projectFileLocation>
+   <sourceContent>
+      <sourceFolderList>
+         <sourceFolderConfiguration>
+            <url>Include/scripts/groovy</url>
+         </sourceFolderConfiguration>
+      </sourceFolderList>
+      <systemFolderList>
+         <systemFolderConfiguration>
+            <url>Include/scripts/groovy</url>
+         </systemFolderConfiguration>
+         <systemFolderConfiguration>
+            <url>Include/features</url>
+         </systemFolderConfiguration>
+         <systemFolderConfiguration>
+            <url>Include/config</url>
+         </systemFolderConfiguration>
+      </systemFolderList>
+   </sourceContent>
+   <timeStampInProperties>false</timeStampInProperties>
+   <type>WEBUI</type>
+</Project>

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<DataFileEntity>
+   <description></description>
+   <name>New Test Data</name>
+   <tag></tag>
+   <connectionProperties/>
+   <containsHeaders>true</containsHeaders>
+   <csvSeperator></csvSeperator>
+   <dataFileGUID>964779fe-8bd9-4daa-be81-5c7e18a36a35</dataFileGUID>
+   <dataSourceUrl></dataSourceUrl>
+   <driver>InternalData</driver>
+   <data>Viet%22123 VIetba%40123 M%E1%BA%ADt+kh%E1%BA%A9u+c%C5%A9+kh%C3%B4ng+ch%C3%ADnh+x%C3%A1c</data>
+   <data>null null Th%C3%B4ng+tin+ch%C6%B0a+%C4%91%E1%BA%A7y+%C4%91%E1%BB%A7</data>
+   <data>VIetba%22123 Vie M%E1%BA%ADt+kh%E1%BA%A9u+ph%E1%BA%A3i+t%E1%BB%91i+thi%E1%BB%83u+4+k%C3%AD+t%E1%BB%B1</data>
+   <internalDataColumns>
+      <columnIndex>0</columnIndex>
+      <name>Passold</name>
+      <size>3</size>
+   </internalDataColumns>
+   <internalDataColumns>
+      <columnIndex>1</columnIndex>
+      <name>Passnew</name>
+      <size>3</size>
+   </internalDataColumns>
+   <internalDataColumns>
+      <columnIndex>2</columnIndex>
+      <name>MSG_Pass</name>
+      <size>3</size>
+   </internalDataColumns>
+   <isInternalPath>false</isInternalPath>
+   <query></query>
+   <secureUserAccount>false</secureUserAccount>
+   <sheetName></sheetName>
+   <usingGlobalDBSetting>false</usingGlobalDBSetting>
+</DataFileEntity>

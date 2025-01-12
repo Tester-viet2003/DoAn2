@@ -1,0 +1,219 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="Đổi mật khẩu fail" time="30.779" tests="3" failures="0" errors="0">
+   <testsuite name="Đổi mật khẩu fail" tests="3" failures="0" errors="0" time="30.779" skipped="0" timestamp="13-01-2025T03:10:08" hostname="Administrator - HPC-29" id="Test Suites/Đổi mật khẩu fail">
+      <properties>
+         <property name="deviceName" value=""/>
+         <property name="devicePlatform"/>
+         <property name="logFolder" value="C:\\Users\\Administrator\\Katalon Studio\\Doan_2\\Reports\\20250113_031006\\\u0110\u1ED5i m\u1EADt kh\u1EA9u fail\\20250113_031006"/>
+         <property name="logFiles" value="C:\\Users\\Administrator\\Katalon Studio\\Doan_2\\Reports\\20250113_031006\\\u0110\u1ED5i m\u1EADt kh\u1EA9u fail\\20250113_031006\\execution0.log"/>
+         <property name="attachments" value=""/>
+         <property name="hostName" value="Administrator - HPC-29"/>
+         <property name="os" value="Windows 10 64bit"/>
+         <property name="katalonVersion" value="10.0.1.223"/>
+         <property name="browser" value="Chrome 131.0.0.0"/>
+         <property name="hostAddress" value="10.10.10.168"/>
+         <property name="sessionId" value="1c7e056205855ee984f859995537d6d4"/>
+         <property name="seleniumVersion" value="4.22.0"/>
+         <property name="proxyInformation" value="ProxyInformation { proxyOption=NO_PROXY, proxyServerType=HTTP, username=, password=********, proxyServerAddress=, proxyServerPort=0, executionList=&quot;&quot;, isApplyToDesiredCapabilities=true }"/>
+         <property name="platform" value="Windows 10"/>
+      </properties>
+      <testcase name="Test Cases/Thông tin cá nhân/Đổi mật khẩu" time="11.227" classname="Test Cases/Thông tin cá nhân/Đổi mật khẩu" status="PASSED">
+         <system-out><![CDATA[13-01-2025T03:10:09 - [TEST_CASE][PASSED] - Test Cases/Thông tin cá nhân/Đổi mật khẩu: Test Cases/Thông tin cá nhân/Đổi mật khẩu
+
+13-01-2025T03:10:09 - [TEST_STEP][PASSED] - openBrowser(""): Browser is opened with url: ''
+
+13-01-2025T03:10:09 - [MESSAGE][INFO] - Starting 'Chrome' driver
+
+13-01-2025T03:10:09 - [MESSAGE][INFO] - Action delay is set to 0 milliseconds
+
+13-01-2025T03:10:11 - [MESSAGE][PASSED] - Browser is opened with url: ''
+
+13-01-2025T03:10:11 - [TEST_STEP][PASSED] - navigateToUrl("https://olm.vn/"): Navigate to 'https://olm.vn/' successfully
+
+13-01-2025T03:10:12 - [MESSAGE][PASSED] - Navigate to 'https://olm.vn/' successfully
+
+13-01-2025T03:10:12 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Page_Nn tng gio dc s OLM Hc trc tuyn thng minh/a_ng nhp")): Object: 'Object Repository/Page_Nn tng gio dc s OLM Hc trc tuyn thng minh/a_ng nhp' is clicked on
+
+13-01-2025T03:10:13 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_Nn tng gio dc s OLM Hc trc tuyn thng minh/a_ng nhp' is clicked on
+
+13-01-2025T03:10:13 - [TEST_STEP][PASSED] - setText(findTestObject("Object Repository/Page_ng nhp/input_ng nhp_username"), "12a10_phanthanhviet"): Text '12a10_phanthanhviet' is set on object 'Object Repository/Page_ng nhp/input_ng nhp_username'
+
+13-01-2025T03:10:14 - [MESSAGE][PASSED] - Text '12a10_phanthanhviet' is set on object 'Object Repository/Page_ng nhp/input_ng nhp_username'
+
+13-01-2025T03:10:14 - [TEST_STEP][PASSED] - setText(findTestObject("Object Repository/Page_ng nhp/input_ng nhp_password"), "Vietba"123"): Text 'Vietba"123' is set on object 'Object Repository/Page_ng nhp/input_ng nhp_password'
+
+13-01-2025T03:10:14 - [MESSAGE][PASSED] - Text 'Vietba"123' is set on object 'Object Repository/Page_ng nhp/input_ng nhp_password'
+
+13-01-2025T03:10:14 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Page_ng nhp/button_ng nhp")): Object: 'Object Repository/Page_ng nhp/button_ng nhp' is clicked on
+
+13-01-2025T03:10:15 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_ng nhp/button_ng nhp' is clicked on
+
+13-01-2025T03:10:15 - [TEST_STEP][PASSED] - mouseOver(findTestObject("Object Repository/Page_Hc bi/span_PT")): Object: 'Object Repository/Page_Hc bi/span_PT' is hovered
+
+13-01-2025T03:10:16 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_Hc bi/span_PT' is hovered
+
+13-01-2025T03:10:16 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Page_Hc bi/a_Thng tin")): Object: 'Object Repository/Page_Hc bi/a_Thng tin' is clicked on
+
+13-01-2025T03:10:17 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_Hc bi/a_Thng tin' is clicked on
+
+13-01-2025T03:10:17 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Page_Thng tin ti khon - Phan Thanh Vit/button_Mt khu_btn btn-outline-primary p-0 px-2")): Object: 'Object Repository/Page_Thng tin ti khon - Phan Thanh Vit/button_Mt khu_btn btn-outline-primary p-0 px-2' is clicked on
+
+13-01-2025T03:10:17 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_Thng tin ti khon - Phan Thanh Vit/button_Mt khu_btn btn-outline-primary p-0 px-2' is clicked on
+
+13-01-2025T03:10:17 - [TEST_STEP][PASSED] - setEncryptedText(findTestObject("Object Repository/Page_Thng tin ti khon - Phan Thanh Vit/input_Mt khu c_old-password"), "+BDy0RBYkzsK2z7LKQ/q6g=="): Text ****** has been set on object 'Object Repository/Page_Thng tin ti khon - Phan Thanh Vit/input_Mt khu c_old-password'
+
+13-01-2025T03:10:18 - [MESSAGE][PASSED] - Text ****** has been set on object 'Object Repository/Page_Thng tin ti khon - Phan Thanh Vit/input_Mt khu c_old-password'
+
+13-01-2025T03:10:18 - [TEST_STEP][PASSED] - setEncryptedText(findTestObject("Object Repository/Page_Thng tin ti khon - Phan Thanh Vit/input_Mt khu mi_password"), "+BDy0RBYkzsK2z7LKQ/q6g=="): Text ****** has been set on object 'Object Repository/Page_Thng tin ti khon - Phan Thanh Vit/input_Mt khu mi_password'
+
+13-01-2025T03:10:18 - [MESSAGE][PASSED] - Text ****** has been set on object 'Object Repository/Page_Thng tin ti khon - Phan Thanh Vit/input_Mt khu mi_password'
+
+13-01-2025T03:10:18 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Page_Thng tin ti khon - Phan Thanh Vit/div_Mt khu c                               _6e015a")): Object: 'Object Repository/Page_Thng tin ti khon - Phan Thanh Vit/div_Mt khu c                               _6e015a' is clicked on
+
+13-01-2025T03:10:19 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_Thng tin ti khon - Phan Thanh Vit/div_Mt khu c                               _6e015a' is clicked on
+
+13-01-2025T03:10:19 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Page_Thng tin ti khon - Phan Thanh Vit/button_Xc nhn")): Object: 'Object Repository/Page_Thng tin ti khon - Phan Thanh Vit/button_Xc nhn' is clicked on
+
+13-01-2025T03:10:19 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_Thng tin ti khon - Phan Thanh Vit/button_Xc nhn' is clicked on
+
+13-01-2025T03:10:19 - [TEST_STEP][PASSED] - verifyElementText(findTestObject("Object Repository/Page_Thng tin ti khon - Phan Thanh Vit/div_Mt khu c khng chnh xc"), "Mật khẩu cũ không chính xác"): Actual text and expected text of test object 'Object Repository/Page_Thng tin ti khon - Phan Thanh Vit/div_Mt khu c khng chnh xc' are matched.
+
+13-01-2025T03:10:20 - [MESSAGE][PASSED] - Actual text and expected text of test object 'Object Repository/Page_Thng tin ti khon - Phan Thanh Vit/div_Mt khu c khng chnh xc' are matched.]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/Thông tin cá nhân/Đổi mật khẩu" time="9.768" classname="Test Cases/Thông tin cá nhân/Đổi mật khẩu" status="PASSED">
+         <system-out><![CDATA[13-01-2025T03:10:20 - [TEST_CASE][PASSED] - Test Cases/Thông tin cá nhân/Đổi mật khẩu: Test Cases/Thông tin cá nhân/Đổi mật khẩu
+
+13-01-2025T03:10:20 - [TEST_STEP][PASSED] - openBrowser(""): Browser is opened with url: ''
+
+13-01-2025T03:10:20 - [MESSAGE][WARNING] - A browser is already opened. Closing browser and opening a new one
+
+13-01-2025T03:10:20 - [MESSAGE][INFO] - Starting 'Chrome' driver
+
+13-01-2025T03:10:20 - [MESSAGE][INFO] - Action delay is set to 0 milliseconds
+
+13-01-2025T03:10:21 - [MESSAGE][PASSED] - Browser is opened with url: ''
+
+13-01-2025T03:10:21 - [TEST_STEP][PASSED] - navigateToUrl("https://olm.vn/"): Navigate to 'https://olm.vn/' successfully
+
+13-01-2025T03:10:22 - [MESSAGE][PASSED] - Navigate to 'https://olm.vn/' successfully
+
+13-01-2025T03:10:22 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Page_Nn tng gio dc s OLM Hc trc tuyn thng minh/a_ng nhp")): Object: 'Object Repository/Page_Nn tng gio dc s OLM Hc trc tuyn thng minh/a_ng nhp' is clicked on
+
+13-01-2025T03:10:23 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_Nn tng gio dc s OLM Hc trc tuyn thng minh/a_ng nhp' is clicked on
+
+13-01-2025T03:10:23 - [TEST_STEP][PASSED] - setText(findTestObject("Object Repository/Page_ng nhp/input_ng nhp_username"), "12a10_phanthanhviet"): Text '12a10_phanthanhviet' is set on object 'Object Repository/Page_ng nhp/input_ng nhp_username'
+
+13-01-2025T03:10:24 - [MESSAGE][PASSED] - Text '12a10_phanthanhviet' is set on object 'Object Repository/Page_ng nhp/input_ng nhp_username'
+
+13-01-2025T03:10:24 - [TEST_STEP][PASSED] - setText(findTestObject("Object Repository/Page_ng nhp/input_ng nhp_password"), "Vietba"123"): Text 'Vietba"123' is set on object 'Object Repository/Page_ng nhp/input_ng nhp_password'
+
+13-01-2025T03:10:24 - [MESSAGE][PASSED] - Text 'Vietba"123' is set on object 'Object Repository/Page_ng nhp/input_ng nhp_password'
+
+13-01-2025T03:10:24 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Page_ng nhp/button_ng nhp")): Object: 'Object Repository/Page_ng nhp/button_ng nhp' is clicked on
+
+13-01-2025T03:10:24 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_ng nhp/button_ng nhp' is clicked on
+
+13-01-2025T03:10:24 - [TEST_STEP][PASSED] - mouseOver(findTestObject("Object Repository/Page_Hc bi/span_PT")): Object: 'Object Repository/Page_Hc bi/span_PT' is hovered
+
+13-01-2025T03:10:26 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_Hc bi/span_PT' is hovered
+
+13-01-2025T03:10:26 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Page_Hc bi/a_Thng tin")): Object: 'Object Repository/Page_Hc bi/a_Thng tin' is clicked on
+
+13-01-2025T03:10:27 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_Hc bi/a_Thng tin' is clicked on
+
+13-01-2025T03:10:27 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Page_Thng tin ti khon - Phan Thanh Vit/button_Mt khu_btn btn-outline-primary p-0 px-2")): Object: 'Object Repository/Page_Thng tin ti khon - Phan Thanh Vit/button_Mt khu_btn btn-outline-primary p-0 px-2' is clicked on
+
+13-01-2025T03:10:27 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_Thng tin ti khon - Phan Thanh Vit/button_Mt khu_btn btn-outline-primary p-0 px-2' is clicked on
+
+13-01-2025T03:10:27 - [TEST_STEP][PASSED] - setEncryptedText(findTestObject("Object Repository/Page_Thng tin ti khon - Phan Thanh Vit/input_Mt khu c_old-password"), "+BDy0RBYkzsK2z7LKQ/q6g=="): Text ****** has been set on object 'Object Repository/Page_Thng tin ti khon - Phan Thanh Vit/input_Mt khu c_old-password'
+
+13-01-2025T03:10:28 - [MESSAGE][PASSED] - Text ****** has been set on object 'Object Repository/Page_Thng tin ti khon - Phan Thanh Vit/input_Mt khu c_old-password'
+
+13-01-2025T03:10:28 - [TEST_STEP][PASSED] - setEncryptedText(findTestObject("Object Repository/Page_Thng tin ti khon - Phan Thanh Vit/input_Mt khu mi_password"), "+BDy0RBYkzsK2z7LKQ/q6g=="): Text ****** has been set on object 'Object Repository/Page_Thng tin ti khon - Phan Thanh Vit/input_Mt khu mi_password'
+
+13-01-2025T03:10:28 - [MESSAGE][PASSED] - Text ****** has been set on object 'Object Repository/Page_Thng tin ti khon - Phan Thanh Vit/input_Mt khu mi_password'
+
+13-01-2025T03:10:28 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Page_Thng tin ti khon - Phan Thanh Vit/div_Mt khu c                               _6e015a")): Object: 'Object Repository/Page_Thng tin ti khon - Phan Thanh Vit/div_Mt khu c                               _6e015a' is clicked on
+
+13-01-2025T03:10:29 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_Thng tin ti khon - Phan Thanh Vit/div_Mt khu c                               _6e015a' is clicked on
+
+13-01-2025T03:10:29 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Page_Thng tin ti khon - Phan Thanh Vit/button_Xc nhn")): Object: 'Object Repository/Page_Thng tin ti khon - Phan Thanh Vit/button_Xc nhn' is clicked on
+
+13-01-2025T03:10:29 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_Thng tin ti khon - Phan Thanh Vit/button_Xc nhn' is clicked on
+
+13-01-2025T03:10:29 - [TEST_STEP][PASSED] - verifyElementText(findTestObject("Object Repository/Page_Thng tin ti khon - Phan Thanh Vit/div_Mt khu c khng chnh xc"), "Mật khẩu cũ không chính xác"): Actual text and expected text of test object 'Object Repository/Page_Thng tin ti khon - Phan Thanh Vit/div_Mt khu c khng chnh xc' are matched.
+
+13-01-2025T03:10:30 - [MESSAGE][PASSED] - Actual text and expected text of test object 'Object Repository/Page_Thng tin ti khon - Phan Thanh Vit/div_Mt khu c khng chnh xc' are matched.]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/Thông tin cá nhân/Đổi mật khẩu" time="9.527" classname="Test Cases/Thông tin cá nhân/Đổi mật khẩu" status="PASSED">
+         <system-out><![CDATA[13-01-2025T03:10:30 - [TEST_CASE][PASSED] - Test Cases/Thông tin cá nhân/Đổi mật khẩu: Test Cases/Thông tin cá nhân/Đổi mật khẩu
+
+13-01-2025T03:10:30 - [TEST_STEP][PASSED] - openBrowser(""): Browser is opened with url: ''
+
+13-01-2025T03:10:30 - [MESSAGE][WARNING] - A browser is already opened. Closing browser and opening a new one
+
+13-01-2025T03:10:30 - [MESSAGE][INFO] - Starting 'Chrome' driver
+
+13-01-2025T03:10:30 - [MESSAGE][INFO] - Action delay is set to 0 milliseconds
+
+13-01-2025T03:10:30 - [MESSAGE][PASSED] - Browser is opened with url: ''
+
+13-01-2025T03:10:30 - [TEST_STEP][PASSED] - navigateToUrl("https://olm.vn/"): Navigate to 'https://olm.vn/' successfully
+
+13-01-2025T03:10:32 - [MESSAGE][PASSED] - Navigate to 'https://olm.vn/' successfully
+
+13-01-2025T03:10:32 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Page_Nn tng gio dc s OLM Hc trc tuyn thng minh/a_ng nhp")): Object: 'Object Repository/Page_Nn tng gio dc s OLM Hc trc tuyn thng minh/a_ng nhp' is clicked on
+
+13-01-2025T03:10:32 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_Nn tng gio dc s OLM Hc trc tuyn thng minh/a_ng nhp' is clicked on
+
+13-01-2025T03:10:32 - [TEST_STEP][PASSED] - setText(findTestObject("Object Repository/Page_ng nhp/input_ng nhp_username"), "12a10_phanthanhviet"): Text '12a10_phanthanhviet' is set on object 'Object Repository/Page_ng nhp/input_ng nhp_username'
+
+13-01-2025T03:10:33 - [MESSAGE][PASSED] - Text '12a10_phanthanhviet' is set on object 'Object Repository/Page_ng nhp/input_ng nhp_username'
+
+13-01-2025T03:10:33 - [TEST_STEP][PASSED] - setText(findTestObject("Object Repository/Page_ng nhp/input_ng nhp_password"), "Vietba"123"): Text 'Vietba"123' is set on object 'Object Repository/Page_ng nhp/input_ng nhp_password'
+
+13-01-2025T03:10:34 - [MESSAGE][PASSED] - Text 'Vietba"123' is set on object 'Object Repository/Page_ng nhp/input_ng nhp_password'
+
+13-01-2025T03:10:34 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Page_ng nhp/button_ng nhp")): Object: 'Object Repository/Page_ng nhp/button_ng nhp' is clicked on
+
+13-01-2025T03:10:34 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_ng nhp/button_ng nhp' is clicked on
+
+13-01-2025T03:10:34 - [TEST_STEP][PASSED] - mouseOver(findTestObject("Object Repository/Page_Hc bi/span_PT")): Object: 'Object Repository/Page_Hc bi/span_PT' is hovered
+
+13-01-2025T03:10:36 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_Hc bi/span_PT' is hovered
+
+13-01-2025T03:10:36 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Page_Hc bi/a_Thng tin")): Object: 'Object Repository/Page_Hc bi/a_Thng tin' is clicked on
+
+13-01-2025T03:10:36 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_Hc bi/a_Thng tin' is clicked on
+
+13-01-2025T03:10:36 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Page_Thng tin ti khon - Phan Thanh Vit/button_Mt khu_btn btn-outline-primary p-0 px-2")): Object: 'Object Repository/Page_Thng tin ti khon - Phan Thanh Vit/button_Mt khu_btn btn-outline-primary p-0 px-2' is clicked on
+
+13-01-2025T03:10:37 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_Thng tin ti khon - Phan Thanh Vit/button_Mt khu_btn btn-outline-primary p-0 px-2' is clicked on
+
+13-01-2025T03:10:37 - [TEST_STEP][PASSED] - setEncryptedText(findTestObject("Object Repository/Page_Thng tin ti khon - Phan Thanh Vit/input_Mt khu c_old-password"), "+BDy0RBYkzsK2z7LKQ/q6g=="): Text ****** has been set on object 'Object Repository/Page_Thng tin ti khon - Phan Thanh Vit/input_Mt khu c_old-password'
+
+13-01-2025T03:10:37 - [MESSAGE][PASSED] - Text ****** has been set on object 'Object Repository/Page_Thng tin ti khon - Phan Thanh Vit/input_Mt khu c_old-password'
+
+13-01-2025T03:10:37 - [TEST_STEP][PASSED] - setEncryptedText(findTestObject("Object Repository/Page_Thng tin ti khon - Phan Thanh Vit/input_Mt khu mi_password"), "+BDy0RBYkzsK2z7LKQ/q6g=="): Text ****** has been set on object 'Object Repository/Page_Thng tin ti khon - Phan Thanh Vit/input_Mt khu mi_password'
+
+13-01-2025T03:10:38 - [MESSAGE][PASSED] - Text ****** has been set on object 'Object Repository/Page_Thng tin ti khon - Phan Thanh Vit/input_Mt khu mi_password'
+
+13-01-2025T03:10:38 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Page_Thng tin ti khon - Phan Thanh Vit/div_Mt khu c                               _6e015a")): Object: 'Object Repository/Page_Thng tin ti khon - Phan Thanh Vit/div_Mt khu c                               _6e015a' is clicked on
+
+13-01-2025T03:10:38 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_Thng tin ti khon - Phan Thanh Vit/div_Mt khu c                               _6e015a' is clicked on
+
+13-01-2025T03:10:38 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Page_Thng tin ti khon - Phan Thanh Vit/button_Xc nhn")): Object: 'Object Repository/Page_Thng tin ti khon - Phan Thanh Vit/button_Xc nhn' is clicked on
+
+13-01-2025T03:10:38 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_Thng tin ti khon - Phan Thanh Vit/button_Xc nhn' is clicked on
+
+13-01-2025T03:10:38 - [TEST_STEP][PASSED] - verifyElementText(findTestObject("Object Repository/Page_Thng tin ti khon - Phan Thanh Vit/div_Mt khu c khng chnh xc"), "Mật khẩu cũ không chính xác"): Actual text and expected text of test object 'Object Repository/Page_Thng tin ti khon - Phan Thanh Vit/div_Mt khu c khng chnh xc' are matched.
+
+13-01-2025T03:10:39 - [MESSAGE][PASSED] - Actual text and expected text of test object 'Object Repository/Page_Thng tin ti khon - Phan Thanh Vit/div_Mt khu c khng chnh xc' are matched.]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <system-out><![CDATA[13-01-2025T03:10:08 - [TEST_SUITE][PASSED] - Đổi mật khẩu fail: Test Cases/Thông tin cá nhân/Đổi mật khẩu]]></system-out>
+      <system-err><![CDATA[]]></system-err>
+   </testsuite>
+</testsuites>

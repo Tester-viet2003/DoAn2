@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_PT</name>
+   <tag></tag>
+   <elementGuidId>e5a07484-ef54-4e5f-9354-38b777b883de</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>span.olm-circle.olm-bg-primary.rounded-circle.border</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//li[@id='dropdownMenuUser']/div/div/span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>af7ef759-1d35-42bd-b40a-8874d720c0f1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>olm-circle olm-bg-primary rounded-circle border </value>
+      <webElementGuid>6509ccf8-9f63-4955-a900-63aa4cfc1b03</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-input</name>
+      <type>Main</type>
+      <value>phan thanh viet</value>
+      <webElementGuid>bfca1b2f-d6ce-4b97-821c-d5bc3906a39f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>PT</value>
+      <webElementGuid>a186201a-f678-48c9-8a35-038aa973a2a2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;dropdownMenuUser&quot;)/div[@class=&quot;dropdown-box&quot;]/div[@class=&quot;d-flex align-items-center&quot;]/span[@class=&quot;olm-circle olm-bg-primary rounded-circle border&quot;]</value>
+      <webElementGuid>dc76222d-4ded-4352-a1bd-74809f11e592</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//li[@id='dropdownMenuUser']/div/div/span</value>
+      <webElementGuid>6f7ca1c7-a241-4112-9324-792d28ba1b89</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Xem tất cả'])[1]/following::span[1]</value>
+      <webElementGuid>5d713045-ad10-412f-bbf1-1b53d7ad6985</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Mới'])[1]/following::span[1]</value>
+      <webElementGuid>e17ca63f-b9ef-4eda-bbe7-44004b302268</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Phan Thanh Việt'])[1]/preceding::span[1]</value>
+      <webElementGuid>507563fc-f6fd-4234-9810-2121576f89e9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Phan Thanh Việt'])[2]/preceding::span[2]</value>
+      <webElementGuid>7726f84d-a2e5-46ce-86e8-d226281e70df</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='PT']/parent::*</value>
+      <webElementGuid>94e5fe0b-bae6-48ce-ba7d-41129a3a2810</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/div/span</value>
+      <webElementGuid>19d205ef-e127-4a12-99d4-7db5538f951b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'PT' or . = 'PT')]</value>
+      <webElementGuid>b07bea6f-f100-416d-9603-514e8ec9428d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Đã tải hết thông báo'])[1]/following::span[1]</value>
+      <webElementGuid>c159e633-88d0-499b-92d5-e4a6e1d650d4</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

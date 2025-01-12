@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Xác thực email phụ huynh</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>812e32ba-d74f-4ecf-bae9-6132e1551941</testCaseGuid>
+</TestCaseEntity>

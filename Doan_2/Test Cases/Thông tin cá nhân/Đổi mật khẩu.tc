@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Đổi mật khẩu</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>8c07662e-83a4-468c-97ec-271c8a91fbb8</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>45b85ad3-3a45-400c-bb27-0c078f3b7fda</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>35b680fe-175c-40af-88ac-86295fd47918</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>c671b4ad-dae5-4986-967d-3682d8540be1</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>45b85ad3-3a45-400c-bb27-0c078f3b7fda</id>
+      <masked>false</masked>
+      <name>Passold</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>35b680fe-175c-40af-88ac-86295fd47918</id>
+      <masked>false</masked>
+      <name>Passnew</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>c671b4ad-dae5-4986-967d-3682d8540be1</id>
+      <masked>false</masked>
+      <name>MSG_Pass</name>
+   </variable>
+</TestCaseEntity>

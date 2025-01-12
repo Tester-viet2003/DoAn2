@@ -1,0 +1,50 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+Đổi mật khẩu fail,Chrome 131.0.0.0,,,13-01-2025 03:10:08,13-01-2025 03:10:39,30.779s,PASSED
+,,,,,,,
+Test Cases/Thông tin cá nhân/Đổi mật khẩu,Chrome 131.0.0.0,,,13-01-2025 03:10:09,13-01-2025 03:10:20,11.227s,PASSED
+"openBrowser("""")",Chrome 131.0.0.0,,,13-01-2025 03:10:09,13-01-2025 03:10:11,1.871s,PASSED
+"navigateToUrl(""https://olm.vn/"")",Chrome 131.0.0.0,,,13-01-2025 03:10:11,13-01-2025 03:10:12,1.598s,PASSED
+"click(findTestObject(""Object Repository/Page_Nn tng gio dc s OLM Hc trc tuyn thng minh/a_ng nhp""))",Chrome 131.0.0.0,,,13-01-2025 03:10:12,13-01-2025 03:10:13,0.734s,PASSED
+"setText(findTestObject(""Object Repository/Page_ng nhp/input_ng nhp_username""), ""12a10_phanthanhviet"")",Chrome 131.0.0.0,,,13-01-2025 03:10:13,13-01-2025 03:10:14,0.796s,PASSED
+"setText(findTestObject(""Object Repository/Page_ng nhp/input_ng nhp_password""), ""Vietba""123"")",Chrome 131.0.0.0,,,13-01-2025 03:10:14,13-01-2025 03:10:14,0.539s,PASSED
+"click(findTestObject(""Object Repository/Page_ng nhp/button_ng nhp""))",Chrome 131.0.0.0,,,13-01-2025 03:10:14,13-01-2025 03:10:15,0.300s,PASSED
+"mouseOver(findTestObject(""Object Repository/Page_Hc bi/span_PT""))",Chrome 131.0.0.0,,,13-01-2025 03:10:15,13-01-2025 03:10:16,1.696s,PASSED
+"click(findTestObject(""Object Repository/Page_Hc bi/a_Thng tin""))",Chrome 131.0.0.0,,,13-01-2025 03:10:16,13-01-2025 03:10:17,0.638s,PASSED
+"click(findTestObject(""Object Repository/Page_Thng tin ti khon - Phan Thanh Vit/button_Mt khu_btn btn-outline-primary p-0 px-2""))",Chrome 131.0.0.0,,,13-01-2025 03:10:17,13-01-2025 03:10:17,0.561s,PASSED
+"setEncryptedText(findTestObject(""Object Repository/Page_Thng tin ti khon - Phan Thanh Vit/input_Mt khu c_old-password""), ""+BDy0RBYkzsK2z7LKQ/q6g=="")",Chrome 131.0.0.0,,,13-01-2025 03:10:17,13-01-2025 03:10:18,0.529s,PASSED
+"setEncryptedText(findTestObject(""Object Repository/Page_Thng tin ti khon - Phan Thanh Vit/input_Mt khu mi_password""), ""+BDy0RBYkzsK2z7LKQ/q6g=="")",Chrome 131.0.0.0,,,13-01-2025 03:10:18,13-01-2025 03:10:18,0.297s,PASSED
+"click(findTestObject(""Object Repository/Page_Thng tin ti khon - Phan Thanh Vit/div_Mt khu c                               _6e015a""))",Chrome 131.0.0.0,,,13-01-2025 03:10:18,13-01-2025 03:10:19,0.498s,PASSED
+"click(findTestObject(""Object Repository/Page_Thng tin ti khon - Phan Thanh Vit/button_Xc nhn""))",Chrome 131.0.0.0,,,13-01-2025 03:10:19,13-01-2025 03:10:19,0.289s,PASSED
+"verifyElementText(findTestObject(""Object Repository/Page_Thng tin ti khon - Phan Thanh Vit/div_Mt khu c khng chnh xc""), ""Mật khẩu cũ không chính xác"")",Chrome 131.0.0.0,,,13-01-2025 03:10:19,13-01-2025 03:10:20,0.678s,PASSED
+,,,,,,,
+Test Cases/Thông tin cá nhân/Đổi mật khẩu,Chrome 131.0.0.0,,,13-01-2025 03:10:20,13-01-2025 03:10:30,9.768s,PASSED
+"openBrowser("""")",Chrome 131.0.0.0,,,13-01-2025 03:10:20,13-01-2025 03:10:21,0.823s,PASSED
+"navigateToUrl(""https://olm.vn/"")",Chrome 131.0.0.0,,,13-01-2025 03:10:21,13-01-2025 03:10:22,1.484s,PASSED
+"click(findTestObject(""Object Repository/Page_Nn tng gio dc s OLM Hc trc tuyn thng minh/a_ng nhp""))",Chrome 131.0.0.0,,,13-01-2025 03:10:22,13-01-2025 03:10:23,0.693s,PASSED
+"setText(findTestObject(""Object Repository/Page_ng nhp/input_ng nhp_username""), ""12a10_phanthanhviet"")",Chrome 131.0.0.0,,,13-01-2025 03:10:23,13-01-2025 03:10:24,0.760s,PASSED
+"setText(findTestObject(""Object Repository/Page_ng nhp/input_ng nhp_password""), ""Vietba""123"")",Chrome 131.0.0.0,,,13-01-2025 03:10:24,13-01-2025 03:10:24,0.519s,PASSED
+"click(findTestObject(""Object Repository/Page_ng nhp/button_ng nhp""))",Chrome 131.0.0.0,,,13-01-2025 03:10:24,13-01-2025 03:10:24,0.274s,PASSED
+"mouseOver(findTestObject(""Object Repository/Page_Hc bi/span_PT""))",Chrome 131.0.0.0,,,13-01-2025 03:10:24,13-01-2025 03:10:26,1.795s,PASSED
+"click(findTestObject(""Object Repository/Page_Hc bi/a_Thng tin""))",Chrome 131.0.0.0,,,13-01-2025 03:10:26,13-01-2025 03:10:27,0.612s,PASSED
+"click(findTestObject(""Object Repository/Page_Thng tin ti khon - Phan Thanh Vit/button_Mt khu_btn btn-outline-primary p-0 px-2""))",Chrome 131.0.0.0,,,13-01-2025 03:10:27,13-01-2025 03:10:27,0.539s,PASSED
+"setEncryptedText(findTestObject(""Object Repository/Page_Thng tin ti khon - Phan Thanh Vit/input_Mt khu c_old-password""), ""+BDy0RBYkzsK2z7LKQ/q6g=="")",Chrome 131.0.0.0,,,13-01-2025 03:10:27,13-01-2025 03:10:28,0.513s,PASSED
+"setEncryptedText(findTestObject(""Object Repository/Page_Thng tin ti khon - Phan Thanh Vit/input_Mt khu mi_password""), ""+BDy0RBYkzsK2z7LKQ/q6g=="")",Chrome 131.0.0.0,,,13-01-2025 03:10:28,13-01-2025 03:10:28,0.287s,PASSED
+"click(findTestObject(""Object Repository/Page_Thng tin ti khon - Phan Thanh Vit/div_Mt khu c                               _6e015a""))",Chrome 131.0.0.0,,,13-01-2025 03:10:28,13-01-2025 03:10:29,0.491s,PASSED
+"click(findTestObject(""Object Repository/Page_Thng tin ti khon - Phan Thanh Vit/button_Xc nhn""))",Chrome 131.0.0.0,,,13-01-2025 03:10:29,13-01-2025 03:10:29,0.291s,PASSED
+"verifyElementText(findTestObject(""Object Repository/Page_Thng tin ti khon - Phan Thanh Vit/div_Mt khu c khng chnh xc""), ""Mật khẩu cũ không chính xác"")",Chrome 131.0.0.0,,,13-01-2025 03:10:29,13-01-2025 03:10:30,0.670s,PASSED
+,,,,,,,
+Test Cases/Thông tin cá nhân/Đổi mật khẩu,Chrome 131.0.0.0,,,13-01-2025 03:10:30,13-01-2025 03:10:39,9.527s,PASSED
+"openBrowser("""")",Chrome 131.0.0.0,,,13-01-2025 03:10:30,13-01-2025 03:10:30,0.739s,PASSED
+"navigateToUrl(""https://olm.vn/"")",Chrome 131.0.0.0,,,13-01-2025 03:10:30,13-01-2025 03:10:32,1.506s,PASSED
+"click(findTestObject(""Object Repository/Page_Nn tng gio dc s OLM Hc trc tuyn thng minh/a_ng nhp""))",Chrome 131.0.0.0,,,13-01-2025 03:10:32,13-01-2025 03:10:32,0.648s,PASSED
+"setText(findTestObject(""Object Repository/Page_ng nhp/input_ng nhp_username""), ""12a10_phanthanhviet"")",Chrome 131.0.0.0,,,13-01-2025 03:10:32,13-01-2025 03:10:33,0.753s,PASSED
+"setText(findTestObject(""Object Repository/Page_ng nhp/input_ng nhp_password""), ""Vietba""123"")",Chrome 131.0.0.0,,,13-01-2025 03:10:33,13-01-2025 03:10:34,0.531s,PASSED
+"click(findTestObject(""Object Repository/Page_ng nhp/button_ng nhp""))",Chrome 131.0.0.0,,,13-01-2025 03:10:34,13-01-2025 03:10:34,0.285s,PASSED
+"mouseOver(findTestObject(""Object Repository/Page_Hc bi/span_PT""))",Chrome 131.0.0.0,,,13-01-2025 03:10:34,13-01-2025 03:10:36,1.698s,PASSED
+"click(findTestObject(""Object Repository/Page_Hc bi/a_Thng tin""))",Chrome 131.0.0.0,,,13-01-2025 03:10:36,13-01-2025 03:10:36,0.630s,PASSED
+"click(findTestObject(""Object Repository/Page_Thng tin ti khon - Phan Thanh Vit/button_Mt khu_btn btn-outline-primary p-0 px-2""))",Chrome 131.0.0.0,,,13-01-2025 03:10:36,13-01-2025 03:10:37,0.543s,PASSED
+"setEncryptedText(findTestObject(""Object Repository/Page_Thng tin ti khon - Phan Thanh Vit/input_Mt khu c_old-password""), ""+BDy0RBYkzsK2z7LKQ/q6g=="")",Chrome 131.0.0.0,,,13-01-2025 03:10:37,13-01-2025 03:10:37,0.510s,PASSED
+"setEncryptedText(findTestObject(""Object Repository/Page_Thng tin ti khon - Phan Thanh Vit/input_Mt khu mi_password""), ""+BDy0RBYkzsK2z7LKQ/q6g=="")",Chrome 131.0.0.0,,,13-01-2025 03:10:37,13-01-2025 03:10:38,0.285s,PASSED
+"click(findTestObject(""Object Repository/Page_Thng tin ti khon - Phan Thanh Vit/div_Mt khu c                               _6e015a""))",Chrome 131.0.0.0,,,13-01-2025 03:10:38,13-01-2025 03:10:38,0.493s,PASSED
+"click(findTestObject(""Object Repository/Page_Thng tin ti khon - Phan Thanh Vit/button_Xc nhn""))",Chrome 131.0.0.0,,,13-01-2025 03:10:38,13-01-2025 03:10:38,0.294s,PASSED
+"verifyElementText(findTestObject(""Object Repository/Page_Thng tin ti khon - Phan Thanh Vit/div_Mt khu c khng chnh xc""), ""Mật khẩu cũ không chính xác"")",Chrome 131.0.0.0,,,13-01-2025 03:10:38,13-01-2025 03:10:39,0.595s,PASSED

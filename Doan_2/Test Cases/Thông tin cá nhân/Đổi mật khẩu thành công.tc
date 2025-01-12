@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Đổi mật khẩu thành công</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>a3a6ae9d-e8bc-41f6-b9a1-39b8339eb355</testCaseGuid>
+</TestCaseEntity>

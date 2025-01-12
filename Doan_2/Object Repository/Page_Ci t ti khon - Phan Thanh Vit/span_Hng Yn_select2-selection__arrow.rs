@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Hng Yn_select2-selection__arrow</name>
+   <tag></tag>
+   <elementGuidId>f0fea378-412d-4c82-a9d5-e18796e42763</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>span.select2-selection__arrow</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='setting-account']/div/div/div/span/span/span/span[2]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>8abe4abe-ab52-48f2-a5aa-5e50bbcb3842</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>select2-selection__arrow</value>
+      <webElementGuid>db8f1166-4eda-442d-9533-7f128565016f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>role</name>
+      <type>Main</type>
+      <value>presentation</value>
+      <webElementGuid>1565c1d4-f817-4a9c-ab78-09eb886c7865</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;setting-account&quot;)/div[@class=&quot;row&quot;]/div[@class=&quot;col-4&quot;]/div[@class=&quot;form-group box-select-city&quot;]/span[@class=&quot;select2 select2-container select2-container--default select2-container--below select2-container--open&quot;]/span[@class=&quot;selection&quot;]/span[@class=&quot;select2-selection select2-selection--single&quot;]/span[@class=&quot;select2-selection__arrow&quot;]</value>
+      <webElementGuid>ee9431a3-b79b-4a65-9748-15b09bbb37db</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='setting-account']/div/div/div/span/span/span/span[2]</value>
+      <webElementGuid>6b8f4724-5971-4297-b08c-843f3494ee22</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Hưng Yên'])[2]/following::span[1]</value>
+      <webElementGuid>c3b28b65-a085-4c4f-9f07-f91d59a1a45f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Chọn tỉnh/thành phố'])[1]/following::span[5]</value>
+      <webElementGuid>519a0cc8-0a33-40ca-8dc6-102a9f771811</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Chọn quận/huyện'])[1]/preceding::span[2]</value>
+      <webElementGuid>a6d4bdc5-75be-4b55-bc39-c0b042ad9579</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Huyện Khoái Châu'])[2]/preceding::span[2]</value>
+      <webElementGuid>8bffcea5-69b0-43a5-ad75-5bdf728d46bd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//span/span/span[2]</value>
+      <webElementGuid>7a87a4dd-fe96-4827-9fc7-78c8b1e88726</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>p_ng nhp qua m QR</name>
+   <tag></tag>
+   <elementGuidId>0ebadbe8-73c7-4588-917c-73d37530ffd9</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>p</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='app']/div/div/div[2]/div[2]/div/div/div/p</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>p</value>
+      <webElementGuid>61c55382-c6aa-4a20-b107-a766ca15e8ca</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Đăng nhập qua mã QR</value>
+      <webElementGuid>30a4fbc5-fc64-45fb-b910-1948191be6a8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;app&quot;)/div[@class=&quot;wrapper-page is-only-desktop&quot;]/div[@class=&quot;zLogin-layout&quot;]/div[@class=&quot;body&quot;]/div[@class=&quot;zcard body-container&quot;]/div[@class=&quot;zcard-head&quot;]/div[@class=&quot;zcard-head-wrapper&quot;]/div[@class=&quot;zcard-head-title&quot;]/p[1]</value>
+      <webElementGuid>42e39046-ba77-46cf-800e-2341cc9b14fa</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='app']/div/div/div[2]/div[2]/div/div/div/p</value>
+      <webElementGuid>a0ed46ab-20a0-4539-add7-fbcaed70b113</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Đăng nhập tài khoản Zalođể kết nối với ứng dụng Học trực tuyến OLM'])[1]/following::p[1]</value>
+      <webElementGuid>a26a6138-7097-4998-b579-05253a2e8dd6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Đăng nhập với mật khẩu'])[1]/preceding::p[1]</value>
+      <webElementGuid>03767078-17d4-47c7-98ac-f99926b1576b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Lấy mã mới'])[1]/preceding::p[2]</value>
+      <webElementGuid>c255957a-8b6e-4325-a0d1-f2c19c34f111</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Đăng nhập qua mã QR']/parent::*</value>
+      <webElementGuid>6cdb36b3-df63-497c-a206-c22ef4350a49</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//p</value>
+      <webElementGuid>83407ff7-a86d-4d30-ab87-349e2d0f6ce2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//p[(text() = 'Đăng nhập qua mã QR' or . = 'Đăng nhập qua mã QR')]</value>
+      <webElementGuid>5a2d0334-14c1-46f5-b7e4-ba41a5cf9e4c</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
