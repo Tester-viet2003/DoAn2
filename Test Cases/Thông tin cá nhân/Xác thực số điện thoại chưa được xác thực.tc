@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Xác thực số điện thoại chưa được xác thực</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>628a0211-d98b-471f-b3ce-5a52938dfceb</testCaseGuid>
+</TestCaseEntity>

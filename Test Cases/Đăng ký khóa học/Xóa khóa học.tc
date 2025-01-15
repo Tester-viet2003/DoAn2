@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Xóa khóa học</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>03175d49-aa82-4a40-8dcd-de95ab905e3a</testCaseGuid>
+</TestCaseEntity>

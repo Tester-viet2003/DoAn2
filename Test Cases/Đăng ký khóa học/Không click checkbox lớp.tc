@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Không click checkbox lớp</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>f173291d-d70d-4515-b1ac-12b31c6de0c3</testCaseGuid>
+</TestCaseEntity>

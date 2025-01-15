@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Đăng nhập thành công</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>58b00803-3198-421c-94b0-771ce39b0176</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>4e1398fa-089a-4fa5-b56a-8836b09ce8ef</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>53b5d768-d7ff-4864-b060-c521f211d1d0</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>eb025c04-aa68-474e-9fb8-22bd83759fb3</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>4e1398fa-089a-4fa5-b56a-8836b09ce8ef</id>
+      <masked>false</masked>
+      <name>Usename</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>53b5d768-d7ff-4864-b060-c521f211d1d0</id>
+      <masked>false</masked>
+      <name>Password</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>eb025c04-aa68-474e-9fb8-22bd83759fb3</id>
+      <masked>false</masked>
+      <name>MSG</name>
+   </variable>
+</TestCaseEntity>

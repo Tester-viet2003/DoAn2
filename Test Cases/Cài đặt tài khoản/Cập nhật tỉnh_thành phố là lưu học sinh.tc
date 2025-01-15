@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Cập nhật tỉnh_thành phố là lưu học sinh</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>645db9d9-38e5-4389-9ee6-c18b50d2f0f1</testCaseGuid>
+</TestCaseEntity>

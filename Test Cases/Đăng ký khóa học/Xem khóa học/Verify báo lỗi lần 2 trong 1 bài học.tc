@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Verify báo lỗi lần 2 trong 1 bài học</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>ce53c1e9-54da-48e1-8be8-cb5d3ac94a98</testCaseGuid>
+</TestCaseEntity>

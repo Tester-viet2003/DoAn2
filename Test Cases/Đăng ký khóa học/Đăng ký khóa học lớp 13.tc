@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Đăng ký khóa học lớp 13</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>fdb83222-cc64-47e4-a544-b056badbb729</testCaseGuid>
+</TestCaseEntity>

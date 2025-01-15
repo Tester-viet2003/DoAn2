@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Tìm kiếm tỉnh_thành phố không tồn tại</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>3a7ee67c-5f84-47c5-9f3f-e15d7d47d2c3</testCaseGuid>
+</TestCaseEntity>
