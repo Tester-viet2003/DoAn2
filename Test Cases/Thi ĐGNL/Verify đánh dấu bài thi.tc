@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Verify đánh dấu bài thi</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>17a22e8e-0fc8-4186-ac8f-cdd0a254cc6b</testCaseGuid>
+</TestCaseEntity>

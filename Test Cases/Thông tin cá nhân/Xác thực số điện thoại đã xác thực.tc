@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Xác thực số điện thoại đã xác thực</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>79edbfe3-024f-4021-9757-929442e6ef3f</testCaseGuid>
+</TestCaseEntity>

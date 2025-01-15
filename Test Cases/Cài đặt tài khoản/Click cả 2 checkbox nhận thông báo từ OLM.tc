@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Click cả 2 checkbox nhận thông báo từ OLM</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>ec6012b4-200a-4c14-b6db-e9b25276fb33</testCaseGuid>
+</TestCaseEntity>

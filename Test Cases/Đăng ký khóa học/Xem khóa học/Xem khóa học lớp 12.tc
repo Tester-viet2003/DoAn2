@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Xem khóa học lớp 12</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>bea830b6-7088-4dbd-a503-e09ce7fd6afd</testCaseGuid>
+</TestCaseEntity>

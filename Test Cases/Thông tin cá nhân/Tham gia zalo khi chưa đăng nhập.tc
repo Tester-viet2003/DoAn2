@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Tham gia zalo khi chưa đăng nhập</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>fd1597bc-e1bf-4c7d-a8e5-de829900b968</testCaseGuid>
+</TestCaseEntity>
